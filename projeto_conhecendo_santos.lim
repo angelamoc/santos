@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>Nova_pasta</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFC6</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS!!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE!!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <cabeceira>Projeto Conhecendo Santos</cabeceira>
+              <pe>Profª Angela - Informática</pe>
+              <imaxe auto="1"  posx="0" posy="5">posto-informacoes-turisticas.jpg</imaxe>
+              <texto posx="46" posy="36" ancho="41" largo="35"><![CDATA[
+<p align="left">
+<font color="#FFFFFF" face="Arial" size="32"><b>Projeto Conhecendo Santos</b></font></p>
+]]></texto>
+              <ctexto>FFFFFF</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>4</tipo>
+              <cabeceira>CAÇA-PALAVRAS: ENCONTRE OS ELEMENTOS</cabeceira>
+              <pe>Profª Angela - Informática</pe>
+              <modo>2</modo>
+              <sopa enun="aqu_ario.jpg">AQUÁRIO</sopa>
+              <sopa enun="museu-pesca.jpg">MUSEU</sopa>
+              <sopa enun="pinacoteca.jpg">PINACOTECA</sopa>
+              <sopa enun="submarino.jpg">SUBMARINO</sopa>
+              <sopa enun="biblioteca-mario-faria.jpg">BIBLIOTECA</sopa>
+              <sopa enun="cine-arte-santos.jpg">CINE</sopa>
+              <sopa enun="monumento-pescador.jpg">MONUMENTO</sopa>
+              <sopa enun="DECK.jpg">DECK</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>AÁBCÇDEÉÊFGHIÍJKLMNOÓÔPQRSTUÚVXWYZ</fondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>4</tipo>
+              <cabeceira>CAÇA-PALAVRAS: ENCONTRE OS ELEMENTOS</cabeceira>
+              <pe>Profª Angela - Informática</pe>
+              <modo>1</modo>
+              <sopa enun="AQUÁRIO">AQUÁRIO</sopa>
+              <sopa enun="MUSEU">MUSEU</sopa>
+              <sopa enun="PINACOTECA">PINACOTECA</sopa>
+              <sopa enun="SUBMARINO">SUBMARINO</sopa>
+              <sopa enun="BIBLIOTECA">BIBLIOTECA</sopa>
+              <sopa enun="CINE">CINE</sopa>
+              <sopa enun="MONUMENTO">MONUMENTO</sopa>
+              <sopa enun="DECK">DECK</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>AÁBCÇDEÉÊFGHIÍJKLMNOÓÔPQRSTUÚVXWYZ</fondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <pe>Profª Angela - Informática</pe>
+              <parellas>aqu_ario.jpg</parellas>
+              <parellas>DECK.jpg</parellas>
+              <parellas>pinacoteca.jpg</parellas>
+              <parellas>biblioteca-mario-faria.jpg</parellas>
+              <parellas>monumento-pescador.jpg</parellas>
+              <parellas>submarino.jpg</parellas>
+              <cfondo>FFFFC6</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>39</tipo>
+              <cabeceira>JOGO DA MEMÓRIA COM IMAGENS E TEXTO</cabeceira>
+              <pe>Profª Angela - Informática</pe>
+              <modo>1</modo>
+            <parellas imaxe="" texto="AQUÁRIO">aqu_ario.jpg</parellas>
+              <parellas imaxe="" texto="DECK PESCADOR">DECK.jpg</parellas>
+              <parellas imaxe="" texto="MUSEU DA PESCA">museu-pesca.jpg</parellas>
+              <parellas imaxe="" texto="PINACOTECA">pinacoteca.jpg</parellas>
+              <parellas imaxe="" texto="MAPA DA ORLA">mapa-praias-de-santos.jpg</parellas>
+              <parellas imaxe="" texto="SÍMBOLO">simbolo.png</parellas>
+              <cfondo>FFFFC6</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>51</tipo>
+              <cabeceira>Encontre o Museu do Pelé</cabeceira>
+              <pe>Profª Angela - Informática</pe>
+              <valor>5</valor>
+              <peza imaxe="museu-pele.jpg">1</peza>
+              <peza imaxe="pinacoteca.jpg">2</peza>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <cabeceira>Jogo da Forca</cabeceira>
+              <pe>Profª Angela - Informática</pe>
+              <imaxe>tomieotak.jpg</imaxe>
+              <texto><![CDATA[Qual o nome da artista que fez este projeto?]]></texto>
+              <resp texto="">Tomie Otake</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>3</tipo>
+              <cabeceira>Quebra-cabeça</cabeceira>
+              <pe>Profª Angela - Informática</pe>
+              <imaxe>porto.jpg</imaxe>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
